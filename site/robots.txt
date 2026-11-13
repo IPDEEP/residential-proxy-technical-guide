@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ipdeep.github.io/residential-proxy-technical-guide/sitemap.xml
