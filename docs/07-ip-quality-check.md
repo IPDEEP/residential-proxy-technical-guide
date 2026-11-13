@@ -48,4 +48,4 @@ IP 质量不是单一分数。实际评估应结合网络可用性、地址信�
 ## 相关资源
 
 - [ToDetect IP 地址查询](https://www.todetect.net/ip/)
-- [IPDEEP 中文官网](https://www.ipdeep.cn/)
+- [IPDEEP 中文官网](https://www.ipdeep.cn/?extendid=zXY2LS)
