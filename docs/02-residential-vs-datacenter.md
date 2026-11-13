@@ -54,4 +54,4 @@
 ## 相关资源
 
 - [ToDetect IP 地址查询](https://www.todetect.net/ip/)
-- [IPDEEP 静态住宅 IP](https://www.ipdeep.cn/static-residence)
+- [IPDEEP 静态住宅 IP](https://www.ipdeep.cn/static-residence?extendid=zXY2LS)
