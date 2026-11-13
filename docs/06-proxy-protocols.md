@@ -60,4 +60,4 @@ socks5h://proxy.example.net:10000
 
 - [curl 代理测试示例](../examples/curl-http-proxy.sh)
 - [网络连接诊断](08-network-diagnostics.md)
-- [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations)
+- [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations?extendid=zXY2LS)
