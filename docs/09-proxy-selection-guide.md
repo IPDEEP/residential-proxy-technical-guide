@@ -54,8 +54,8 @@ VPS 与代理 IP 是不同类型的产品，不能混为一谈。
 
 ## 5. IPDEEP 相关资源
 
-- [IPDEEP 静态住宅 IP](https://www.ipdeep.cn/static-residence)
-- [IPDEEP 动态住宅代理](https://www.ipdeep.cn/dynamic-residence)
-- [IPDEEP 中文 VPS 页面](https://www.ipdeep.cn/vps)
+- [IPDEEP 静态住宅 IP](https://www.ipdeep.cn/static-residence?extendid=zXY2LS)
+- [IPDEEP 动态住宅代理](https://www.ipdeep.cn/dynamic-residence?extendid=zXY2LS)
+- [IPDEEP 中文 VPS 页面](https://www.ipdeep.cn/vps?extendid=zXY2LS)
 
 产品价格、可用地区、规格和服务规则以官网当前页面及实际购买界面为准。本文不对特定平台审核结果、账号状态或 IP 质量作保证。
