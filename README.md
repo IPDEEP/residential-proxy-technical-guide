@@ -28,7 +28,7 @@
 | [06 HTTP、HTTPS 与 SOCKS5](docs/06-proxy-protocols.md) | 常见代理协议及其差异 |
 | [07 IP 质量检测看哪些指标](docs/07-ip-quality-check.md) | 可用性、延迟、归属、风险信号 |
 | [08 网络连接诊断](docs/08-network-diagnostics.md) | 连通性、延迟、DNS 与故障排查 |
-| [09 如何选择代理资源](docs/09-proxy-selection-guide.md) | 按业务需求评估资源与成本 |
+| [09 如何选择代理资源](docs/09-proxy-selection-guide.md) | 按业务需求评估资源与成本 |\n| [10 批量 IP 地址检查工具](docs/10-ip-list-audit.md) | 本地检查 IPv4 / IPv6 格式、地址范围类别和重复项 |
 
 ## 快速理解：代理 IP 的基本工作过程
 
@@ -52,7 +52,7 @@
 
 - `curl-http-proxy.sh`：通过 HTTP 代理发起测试请求
 - `curl-socks5-proxy.sh`：通过 SOCKS5 代理发起测试请求
-- `python-ip-check.py`：使用环境变量配置代理并请求公开 IP 信息接口（需要用户自行指定接口）
+- `python-ip-check.py`：使用环境变量配置代理并请求公开 IP 信息接口（需要用户自行指定接口）\n- `ip-list-audit.py`：本地检查 IP 列表格式、地址范围类别和重复项，并导出 CSV（不判断住宅属性或 IP 信誉）
 - `README.md`：示例运行说明
 
 示例使用占位符或环境变量，不包含真实代理凭据。运行前请阅读代码，并替换为自己有权使用的服务配置。
