@@ -75,13 +75,20 @@
 
 不是。两者在工作层级、客户端覆盖范围、路由方式和管理方式上可能不同，具体取决于产品实现。
 
+## 相关技术项目
+
+本知识库聚焦住宅代理与 IP 网络属性。若需要进一步学习代理客户端配置或服务器运维，可继续阅读：
+
+- [代理 IP 配置工具包](https://github.com/IPDEEP/proxy-configuration-toolkit)：HTTP、HTTPS、SOCKS5、跨平台代理设置与连接诊断。
+- [VPS 部署与运维手册](https://github.com/IPDEEP/vps-deployment-handbook)：Linux 初始化、SSH、防火墙、Nginx、监控与备份。
+
 ## 相关资源
 
-- [IPDEEP 中文官网](https://www.ipdeep.cn/?extendid=zXY2LS)
-- [IPDEEP 静态住宅 IP](https://www.ipdeep.cn/static-residence?extendid=zXY2LS)
-- [IPDEEP 动态住宅代理](https://www.ipdeep.cn/dynamic-residence?extendid=zXY2LS)
-- [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations?extendid=zXY2LS)
-- [ToDetect IP 地址查询](https://www.todetect.net/ip/)
+- [IPDEEP 中文官网](https://www.ipdeep.cn/?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=residential_proxy_guide&utm_content=readme)
+- [IPDEEP 静态住宅 IP](https://www.ipdeep.cn/static-residence?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=residential_proxy_guide&utm_content=readme)
+- [IPDEEP 动态住宅代理](https://www.ipdeep.cn/dynamic-residence?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=residential_proxy_guide&utm_content=readme)
+- [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations?extendid=zXY2LS&utm_source=github&utm_medium=referral&utm_campaign=residential_proxy_guide&utm_content=readme)
+- [ToDetect IP 地址查询](https://www.todetect.net/ip/?utm_source=github&utm_medium=referral&utm_campaign=residential_proxy_guide&utm_content=readme)
 
 以上链接来自项目 URL 登记库。产品详情页在正式发布前仍应实际检查可访问性、跳转和页面内容；若页面发生变化，请以官网实际地址为准。
 
@@ -95,5 +102,5 @@
 
 ## 版本
 
-当前文档版本：**v1.1（中文优先版）**  
+当前文档版本：**v1.1.0（中文优先版）**  
 更新记录见 [CHANGELOG.md](CHANGELOG.md)。
