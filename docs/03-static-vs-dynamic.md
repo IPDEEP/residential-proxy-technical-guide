@@ -55,7 +55,7 @@ IP 更换频率、会话保持时间、可用地区和计费规则因服务而�
 
 ## 相关资源
 
-- [IPDEEP 静态住宅 IP](https://www.ipdeep.cn/static-residence)
-- [IPDEEP 动态住宅代理](https://www.ipdeep.cn/dynamic-residence)
+- [IPDEEP 静态住宅 IP](https://www.ipdeep.cn/static-residence?extendid=zXY2LS)
+- [IPDEEP 动态住宅代理](https://www.ipdeep.cn/dynamic-residence?extendid=zXY2LS)
 
 具体价格、地区、会话和资源规则以官网当前产品页面为准。
