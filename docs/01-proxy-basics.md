@@ -65,5 +65,5 @@
 
 ## 相关资源
 
-- [IPDEEP 中文官网](https://www.ipdeep.cn/)
-- [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations)
+- [IPDEEP 中文官网](https://www.ipdeep.cn/?extendid=zXY2LS)
+- [IPDEEP 代理配置资源](https://www.ipdeep.cn/integrations?extendid=zXY2LS)
